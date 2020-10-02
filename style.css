@@ -44,13 +44,20 @@ footer {
     color: #93c2db;
 }
 
+.hack-btn-container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
 .hack-btn {
     color: white;
     text-transform: uppercase;
     background-color: #0069ff;
     padding: 20px 40px;
     border-radius: 50px;
-    margin: 20px;
+    margin: 5px;
 }
 
 .hack-btn:hover {
@@ -59,7 +66,7 @@ footer {
     background-color: #FF8AE2;
     padding: 20px 40px;
     border-radius: 50px;
-    margin: 20px;
+    margin: 5px;
 }
 
 ul {
