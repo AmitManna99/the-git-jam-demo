@@ -1,0 +1,73 @@
+body {
+    background-color: #072540;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+h4 {
+    font-weight: 600 !important;
+}
+
+footer {
+    background-color: #0069ff !important;
+    padding: 0.5rem !important;
+}
+
+.git-title {
+    font-family: 'Acme', sans-serif;
+    font-size: 3rem;
+    color: #93c2db;
+}
+
+.git-title i {
+    margin: 0.4rem;
+    font-size: 2.5rem;
+}
+
+.git-title span {
+    font-size: 3.3rem;
+    color: #FF8AE2;
+}
+
+.center {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+}
+
+.hack-pink-text {
+    color: #FF8AE2 !important;
+}
+
+.hack-sky-text {
+    color: #93c2db;
+}
+
+.hack-btn {
+    color: white;
+    text-transform: uppercase;
+    background-color: #0069ff;
+    padding: 20px 40px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.hack-btn:hover {
+    color: white;
+    text-transform: uppercase;
+    background-color: #FF8AE2;
+    padding: 20px 40px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+ul {
+    list-style-type: disc !important;
+}
+
+ul:not(.browser-default)>li {
+    list-style-type: disc !important;
+    /*padding-left: 1rem !important;
+    padding-inline-start: 20px !important;*/
+}
